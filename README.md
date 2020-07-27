@@ -12,8 +12,7 @@ C4Cで作成したコードを格納するリポジトリ
 1. [Solution roadmap](#solution-roadmap)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [License](#license)
+1. [Authors](#authors)
 1. [Acknowledgments](#acknowledgments)
 
 
@@ -57,9 +56,6 @@ API has more potential than a single product or service because it can be transf
 
 
 ## Contributing
-
-
-## Versioning
 
 
 ## Authors
