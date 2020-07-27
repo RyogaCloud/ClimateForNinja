@@ -25,7 +25,7 @@ A tool for developers confronting climate change
 [![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Video_Image.png)](https://youtu.be/8KhJ5azM-5g)
 
 ## The architecture
-[![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)]
+![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)
 
 ## Long description
 
