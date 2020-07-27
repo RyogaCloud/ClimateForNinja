@@ -1,6 +1,16 @@
 # ClimateForNinja
-C4Cで作成したコードを格納するリポジトリ
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
+C4Cで作成したコードを格納するリポジトリ
+
+## Contents
+1. [Short description](#short-description)
+1. [Demo video](#demo-video)
+
+## Short description
+
+## Demo video
+(https://youtu.be/8KhJ5azM-5g)
 
 ### Server_NodeRED.json
 - クライアントからデータを受信し、データベースに格納
