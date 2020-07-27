@@ -9,7 +9,7 @@ C4Cで作成したコードを格納するリポジトリ
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
+1. [Solution roadmap](#solution-roadmap)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
 1. [Versioning](#versioning)
@@ -27,8 +27,12 @@ A tool for developers confronting climate change
 ## The architecture
 ![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)
 
-1. It processes the data measured by the sensor and running Node-RED on Raspberry Pi.
-1. It sends processed data to IBM Watson IoT Platform, and then it loads the data posted on IBM Watson IoT Platform and IBM Cloudant stores it and the data of outside temperature with Weather API.
+1. Get room temperature with Raspberry Pi and temperature sensor.
+1. Format the acquired data with Node-RED in Raspberry Pi and send the data to IBM Watson IoT Platform.
+1. Load the data posted to IBM Watson IoT Platform with Node-RED on IBM Cloud.
+1. Store the loaded data and outdoor temperature retrieved from The Weather Company API to cloudant with Node-RED on IBM Cloud.
+
+
 1. It creates a web application based on the stored data.
 
 
@@ -45,7 +49,7 @@ Developers can create following services with our API :
 Like these, this solution brings many positive outcomes. The more developers make use of this solution, the more customer demand we can responded to. Also, we utilized Node-RED in developing API, which allows us to introduce it to many companies at low cost due to its ease of distribution.  
 API has more potential than a single product or service because it can be transformed to anything by benefiting from excellent developers.
 
-## Project roadmap
+## Solution roadmap
 
 
 ## Getting started
