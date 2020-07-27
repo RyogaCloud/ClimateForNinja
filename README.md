@@ -11,6 +11,7 @@
 1. [Solution roadmap](#solution-roadmap)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
+1. [Using IBM Cloud Services or IBM Systems](#using-ibm-cloud-service-or-ibm-systems)
 1. [Authors](#authors)
 
 
@@ -60,6 +61,13 @@ API has more potential than a single product or service because it can be transf
 
 ## Contributing
 
+
+
+## Using IBM Cloud Services or IBM Systems
+
+- Node-RED
+- IBM Watson IoT Platform
+- IBM Cloudant 
 
 
 ## Authors
