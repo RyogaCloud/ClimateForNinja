@@ -10,6 +10,7 @@ C4Cで作成したコードを格納するリポジトリ
 ## Short description
 
 ## Demo video
+[![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/image.png)]
 (https://youtu.be/8KhJ5azM-5g)
 
 ### Server_NodeRED.json
