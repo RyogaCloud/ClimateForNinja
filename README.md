@@ -65,5 +65,5 @@ API has more potential than a single product or service because it can be transf
 ## Authors
 - [RyogaTakao](https://github.com/RyogaTakao)(Back-end engineer)
 - [YoshiharuSenna](https://github.com/YoshiharuSenna)(Front-end engineer)
-- [TatsuyaOkazaki324](https://github.com/TatsuyaOkazaki324)(Embedded engineer)
-- (planner)
+- [OkazakiTatsuya](https://github.com/TatsuyaOkazaki324)(Embedded engineer)
+- [Miyu Oba](https://github.com/mlieynua)(planner)
