@@ -1,7 +1,6 @@
 # ClimateForNinja
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-C4Cで作成したコードを格納するリポジトリ
 
 ## Contents
 
