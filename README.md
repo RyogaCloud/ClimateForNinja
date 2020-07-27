@@ -13,15 +13,16 @@ C4Cで作成したコードを格納するリポジトリ
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
 1. [Authors](#authors)
-1. [Acknowledgments](#acknowledgments)
 
 
 ## Short description
 
 A tool for developers confronting climate change
 
+
 ## Demo video
 [![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Video_Image.png)](https://youtu.be/8KhJ5azM-5g)
+
 
 ## The architecture
 ![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)
@@ -49,17 +50,21 @@ Developers can create following services with our API :
 Like these, this solution brings many positive outcomes. The more developers make use of this solution, the more customer demand we can responded to. Also, we utilized Node-RED in developing API, which allows us to introduce it to many companies at low cost due to its ease of distribution.  
 API has more potential than a single product or service because it can be transformed to anything by benefiting from excellent developers.
 
+
 ## Solution roadmap
+
 
 
 ## Getting started
 
 
+
 ## Contributing
 
 
+
 ## Authors
-
-
-## Acknowledgments
-
+- [RyogaTakao](https://github.com/RyogaTakao)(Back-end engineer)
+- [YoshiharuSenna](https://github.com/YoshiharuSenna)(Front-end engineer)
+- [TatsuyaOkazaki324](https://github.com/TatsuyaOkazaki324)(Embedded engineer)
+- (planner)
