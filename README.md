@@ -30,10 +30,11 @@ A tool for developers confronting climate change
 1. Get room temperature with Raspberry Pi and temperature sensor.
 1. Format the acquired data with Node-RED in Raspberry Pi and send the data to IBM Watson IoT Platform.
 1. Load the data posted to IBM Watson IoT Platform with Node-RED on IBM Cloud.
-1. Store the loaded data and outdoor temperature retrieved from The Weather Company API to cloudant with Node-RED on IBM Cloud.
-
-
-1. It creates a web application based on the stored data.
+1. Store the loaded data and outdoor temperature retrieved from The Weather Company API in cloudant with Node-RED on IBM Cloud.
+1. Format the data stored in cloudant into JSON format.
+You can get the JSON by sending an Http/Get request.
+1. Send an Http/Get request to the above to get the data.
+Display a graph of the data and a JSON string as a web application
 
 
 ## Long description
