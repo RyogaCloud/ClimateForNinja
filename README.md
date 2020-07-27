@@ -27,6 +27,11 @@ A tool for developers confronting climate change
 ## The architecture
 ![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)
 
+1. It processes the data measured by the sensor and running Node-RED on Raspberry Pi.
+1. It sends processed data to IBM Watson IoT Platform, and then it loads the data posted on IBM Watson IoT Platform and IBM Cloudant stores it and the data of outside temperature with Weather API.
+1. It creates a web application based on the stored data.
+
+
 ## Long description
 
 According to IBM global study conducted by Morning Consult , Eight out of  ten respondents agree with the idea that “people want to do something to help combat climate change, but don't know where to start.”
