@@ -21,11 +21,11 @@ A tool for developers confronting climate change
 
 
 ## Demo video
-[![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Video_Image.png)](https://youtu.be/CShJTAtQW3c)
+[![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Video_Image.png)](https://youtu.be/CShJTAtQW3c)
 
 
 ## The architecture
-![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/futureSever/fig/Architecture.png)
+![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png)
 
 1. Get room temperature with Raspberry Pi and temperature sensor.
 1. Format the acquired data with Node-RED in Raspberry Pi and send the data to IBM Watson IoT Platform.
@@ -52,7 +52,7 @@ API has more potential than a single product or service because it can be transf
 
 
 ## Solution roadmap
-
+![Roadmap](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Roadmap.png)
 
 
 ## Getting started
