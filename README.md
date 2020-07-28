@@ -25,7 +25,8 @@ A tool for developers confronting climate change
 
 
 ## The architecture
-![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png)
+<img src="https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png" width=100%>
+
 
 1. Get room temperature with Raspberry Pi and temperature sensor.
 1. Format the acquired data with Node-RED in Raspberry Pi and send the data to IBM Watson IoT Platform.
