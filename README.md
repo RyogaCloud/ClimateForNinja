@@ -25,9 +25,9 @@ A tool for developers confronting climate change
 
 
 ## The architecture
-![Architecture](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png)
+<img src="https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png" width=100%>
 
-1. Get room temperature with Raspberry Pi and temperature sensor.
+1. Measure room temperature with Raspberry Pi and temperature sensor every hour.
 1. Format the acquired data with Node-RED in Raspberry Pi and send the data to IBM Watson IoT Platform.
 1. Load the data posted to IBM Watson IoT Platform with Node-RED on IBM Cloud.
 1. Store the loaded data and outdoor temperature retrieved from The Weather Company API in IBM cloudant with Node-RED on IBM Cloud.
@@ -51,16 +51,23 @@ Like these, this solution brings many positive outcomes. The more developers mak
 API has more potential than a single product or service because it can be transformed to anything by benefiting from excellent developers.
 
 
-## Solution roadmap
+## Roadmap
 ![Roadmap](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Roadmap.png)
 
 
 ## Getting started
-
-
+1. Git clone this repository
+```
+$ git clone <This Repository>
+```
+2. Import JSON files into your Node-RED
 
 ## Contributing
+Climate for NINJA gives developers various ideas.
+If it is used by many developers, it will create a solution for more environments.
+It is a tool for many developers to solve environmental problems.
 
+Climate for NINJA is full of possibilities.
 
 
 ## Using IBM Cloud Services or IBM Systems
@@ -68,6 +75,7 @@ API has more potential than a single product or service because it can be transf
 - [Node-RED](https://nodered.org/)
 - [IBM Watson IoT Platform](https://www.ibm.com/jp-ja/marketplace/internet-of-things-cloud)
 - [IBM Cloudant](https://www.ibm.com/jp-ja/cloud/cloudant)
+- [The Weather Company API](https://callforcode.weather.com/)
 
 
 ## Authors
