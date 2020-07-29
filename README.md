@@ -22,7 +22,7 @@ A tool for developers confronting climate change
 
 ## Demo video
 [![Watch the video](https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Video_Image.png)](https://youtu.be/CShJTAtQW3c)
-
+<iframe width="966" height="543" src="https://www.youtube.com/embed/CShJTAtQW3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The architecture
 <img src="https://github.com/RyogaTakao/ClimateForNinja/blob/master/fig/Architecture.png" width=100%>
