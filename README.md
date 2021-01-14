@@ -82,7 +82,15 @@ Climate for NINJA is full of possibilities.
 
 
 ## Authors
-- [RyogaTakao](https://github.com/RyogaTakao)(Back-end engineer)
-- [YoshiharuSenna](https://github.com/YoshiharuSenna)(Front-end engineer)
-- [OkazakiTatsuya](https://github.com/TatsuyaOkazaki324)(Embedded engineer)
-- [Miyu Oba](https://github.com/mlieynua)(planner)
+- [RyogaTakao](https://github.com/RyogaTakao)
+    - Faculty of Science and Technology, Meijo University
+    - Back-end engineer
+- [YoshiharuSenna](https://github.com/YoshiharuSenna)
+    - Faculty of Science and Technology, Meijo University
+    - Front-end engineer
+- [OkazakiTatsuya](https://github.com/TatsuyaOkazaki324)
+    - Faculty of Science and Technology, Meijo University
+    - Embedded engineer
+- [Miyu Oba](https://github.com/mlieynua)
+    - Faculty of Foreign Languages, Nanzan University
+    - planner
